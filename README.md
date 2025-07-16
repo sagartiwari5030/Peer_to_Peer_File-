@@ -199,8 +199,3 @@ classDiagram
   - HTTPS support
   - Port validation and security
 
-
-
-## License
-
-MIT
